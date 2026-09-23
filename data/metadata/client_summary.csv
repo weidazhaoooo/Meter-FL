@@ -1,0 +1,11 @@
+client,n_train,n_test
+ammeter_catalog,13,3
+ammeter_handheld,2,1
+ammeter_lab,16,3
+pressure_gauge_catalog,26,6
+pressure_gauge_handheld,544,135
+pressure_gauge_industrial,462,115
+pressure_gauge_lab,28,6
+sphygmomanometer_all,7,2
+tachometer_all,4,1
+voltmeter_all,6,2

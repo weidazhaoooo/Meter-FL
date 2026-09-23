@@ -1,0 +1,29 @@
+{
+ "unit": "x1000 RPM",
+ "scale_min": 0,
+ "scale_max": 7,
+ "reading_gt": 4.5,
+ "tick_values": [
+  0,
+  0.5,
+  1,
+  1.5,
+  2,
+  2.5,
+  3,
+  3.5,
+  4,
+  4.5,
+  5,
+  5.5,
+  6,
+  6.5,
+  7
+ ],
+ "seg_anomaly": false,
+ "annot_issue": false,
+ "notes": "",
+ "file": "tachometer_54.png",
+ "client": "tachometer_all",
+ "side": "test"
+}

@@ -1,0 +1,834 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pointer",
+      "points": [
+        [
+          120.0,
+          65.0
+        ],
+        [
+          118.0,
+          67.0
+        ],
+        [
+          127.0,
+          79.0
+        ],
+        [
+          121.0,
+          84.0
+        ],
+        [
+          186.0,
+          200.0
+        ],
+        [
+          193.0,
+          196.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          290.0,
+          289.0
+        ],
+        [
+          283.0,
+          295.0
+        ],
+        [
+          302.0,
+          316.0
+        ],
+        [
+          309.0,
+          310.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          314.0,
+          284.0
+        ],
+        [
+          309.0,
+          291.0
+        ],
+        [
+          319.0,
+          299.0
+        ],
+        [
+          324.0,
+          292.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          95.0,
+          283.0
+        ],
+        [
+          84.0,
+          292.0
+        ],
+        [
+          90.0,
+          299.0
+        ],
+        [
+          101.0,
+          290.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          114.0,
+          281.0
+        ],
+        [
+          92.0,
+          301.0
+        ],
+        [
+          98.0,
+          308.0
+        ],
+        [
+          120.0,
+          288.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          317.0,
+          262.0
+        ],
+        [
+          313.0,
+          270.0
+        ],
+        [
+          332.0,
+          280.0
+        ],
+        [
+          336.0,
+          272.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          89.0,
+          261.0
+        ],
+        [
+          71.0,
+          272.0
+        ],
+        [
+          76.0,
+          279.0
+        ],
+        [
+          94.0,
+          268.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          73.0,
+          246.0
+        ],
+        [
+          61.0,
+          250.0
+        ],
+        [
+          64.0,
+          259.0
+        ],
+        [
+          76.0,
+          255.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          332.0,
+          245.0
+        ],
+        [
+          329.0,
+          254.0
+        ],
+        [
+          342.0,
+          259.0
+        ],
+        [
+          345.0,
+          250.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          76.0,
+          223.0
+        ],
+        [
+          56.0,
+          228.0
+        ],
+        [
+          58.0,
+          237.0
+        ],
+        [
+          78.0,
+          232.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          329.0,
+          222.0
+        ],
+        [
+          327.0,
+          231.0
+        ],
+        [
+          348.0,
+          236.0
+        ],
+        [
+          350.0,
+          227.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          339.0,
+          202.0
+        ],
+        [
+          337.0,
+          211.0
+        ],
+        [
+          351.0,
+          213.0
+        ],
+        [
+          353.0,
+          204.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          65.0,
+          202.0
+        ],
+        [
+          53.0,
+          203.0
+        ],
+        [
+          53.0,
+          212.0
+        ],
+        [
+          65.0,
+          211.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          52.0,
+          179.0
+        ],
+        [
+          52.0,
+          188.0
+        ],
+        [
+          72.0,
+          190.0
+        ],
+        [
+          72.0,
+          181.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          351.0,
+          178.0
+        ],
+        [
+          329.0,
+          180.0
+        ],
+        [
+          329.0,
+          189.0
+        ],
+        [
+          351.0,
+          187.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          54.0,
+          156.0
+        ],
+        [
+          52.0,
+          165.0
+        ],
+        [
+          65.0,
+          168.0
+        ],
+        [
+          67.0,
+          159.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          345.0,
+          153.0
+        ],
+        [
+          333.0,
+          157.0
+        ],
+        [
+          336.0,
+          166.0
+        ],
+        [
+          348.0,
+          162.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          60.0,
+          133.0
+        ],
+        [
+          57.0,
+          142.0
+        ],
+        [
+          85.0,
+          153.0
+        ],
+        [
+          88.0,
+          144.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          338.0,
+          131.0
+        ],
+        [
+          312.0,
+          141.0
+        ],
+        [
+          315.0,
+          150.0
+        ],
+        [
+          341.0,
+          140.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          71.0,
+          113.0
+        ],
+        [
+          67.0,
+          121.0
+        ],
+        [
+          77.0,
+          126.0
+        ],
+        [
+          81.0,
+          118.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          325.0,
+          109.0
+        ],
+        [
+          316.0,
+          116.0
+        ],
+        [
+          321.0,
+          123.0
+        ],
+        [
+          330.0,
+          116.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          83.0,
+          94.0
+        ],
+        [
+          77.0,
+          101.0
+        ],
+        [
+          91.0,
+          114.0
+        ],
+        [
+          97.0,
+          107.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          310.0,
+          90.0
+        ],
+        [
+          297.0,
+          102.0
+        ],
+        [
+          303.0,
+          109.0
+        ],
+        [
+          316.0,
+          97.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          97.0,
+          76.0
+        ],
+        [
+          90.0,
+          83.0
+        ],
+        [
+          99.0,
+          92.0
+        ],
+        [
+          106.0,
+          85.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          294.0,
+          73.0
+        ],
+        [
+          286.0,
+          83.0
+        ],
+        [
+          293.0,
+          88.0
+        ],
+        [
+          301.0,
+          78.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          114.0,
+          63.0
+        ],
+        [
+          107.0,
+          68.0
+        ],
+        [
+          119.0,
+          84.0
+        ],
+        [
+          126.0,
+          79.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          275.0,
+          58.0
+        ],
+        [
+          265.0,
+          77.0
+        ],
+        [
+          273.0,
+          81.0
+        ],
+        [
+          283.0,
+          62.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          132.0,
+          51.0
+        ],
+        [
+          125.0,
+          56.0
+        ],
+        [
+          131.0,
+          66.0
+        ],
+        [
+          138.0,
+          61.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          254.0,
+          46.0
+        ],
+        [
+          250.0,
+          58.0
+        ],
+        [
+          259.0,
+          61.0
+        ],
+        [
+          263.0,
+          49.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          154.0,
+          43.0
+        ],
+        [
+          145.0,
+          46.0
+        ],
+        [
+          151.0,
+          64.0
+        ],
+        [
+          160.0,
+          61.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          233.0,
+          38.0
+        ],
+        [
+          228.0,
+          60.0
+        ],
+        [
+          237.0,
+          62.0
+        ],
+        [
+          242.0,
+          40.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          175.0,
+          38.0
+        ],
+        [
+          166.0,
+          40.0
+        ],
+        [
+          168.0,
+          49.0
+        ],
+        [
+          177.0,
+          47.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          210.0,
+          35.0
+        ],
+        [
+          209.0,
+          49.0
+        ],
+        [
+          218.0,
+          49.0
+        ],
+        [
+          219.0,
+          35.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "ticks",
+      "points": [
+        [
+          188.0,
+          35.0
+        ],
+        [
+          189.0,
+          63.0
+        ],
+        [
+          198.0,
+          63.0
+        ],
+        [
+          197.0,
+          35.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "voc_new_243.jpg",
+  "imageData": null,
+  "imageHeight": 403,
+  "imageWidth": 377
+}

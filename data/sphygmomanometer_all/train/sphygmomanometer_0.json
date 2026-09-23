@@ -1,0 +1,128 @@
+{
+  "version": "4.0.0-beta.10",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "ticks",
+      "score": null,
+      "points": [
+        [
+          564.31171875,
+          323.015234375
+        ],
+        [
+          575.9578125,
+          320.369140625
+        ],
+        [
+          576.795703125,
+          322.5796875
+        ],
+        [
+          564.470703125,
+          325.46015625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "ticks",
+      "score": null,
+      "points": [
+        [
+          567.78984375,
+          318.737109375
+        ],
+        [
+          575.628515625,
+          316.326171875
+        ],
+        [
+          576.36328125,
+          318.664453125
+        ],
+        [
+          568.136328125,
+          320.473046875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "ticks",
+      "score": null,
+      "points": [
+        [
+          566.211328125,
+          316.2015625
+        ],
+        [
+          575.4078125,
+          313.163671875
+        ],
+        [
+          576.00546875,
+          314.99921875
+        ],
+        [
+          567.2625,
+          317.5546875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "ticks",
+      "score": null,
+      "points": [
+        [
+          565.809765625,
+          312.686328125
+        ],
+        [
+          574.41015625,
+          309.623046875
+        ],
+        [
+          574.426953125,
+          311.59375
+        ],
+        [
+          566.515625,
+          314.560546875
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "sphygmomanometer_0.png",
+  "imageData": null,
+  "imageHeight": 682,
+  "imageWidth": 1024,
+  "description": ""
+}

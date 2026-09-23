@@ -1,0 +1,705 @@
+[
+ {
+  "file": "ammeter_6.png",
+  "client": "ammeter_catalog",
+  "side": "test",
+  "root_causes": [
+   "label_alias_tick",
+   "v1_unsupported_shape:quadrilateral"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_73.png",
+  "client": "ammeter_catalog",
+  "side": "test",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_10.png",
+  "client": "ammeter_catalog",
+  "side": "train",
+  "root_causes": [
+   "label_alias_tick"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_13.png",
+  "client": "ammeter_catalog",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_20.png",
+  "client": "ammeter_catalog",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_3.png",
+  "client": "ammeter_catalog",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_51.png",
+  "client": "ammeter_catalog",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_60.png",
+  "client": "ammeter_catalog",
+  "side": "train",
+  "root_causes": [
+   "missing_tick_annotation",
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "needs_human_annotation",
+  "issues": [
+   "TICK_NOT_ANNOTATED"
+  ]
+ },
+ {
+  "file": "ammeter_64.png",
+  "client": "ammeter_catalog",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_7.png",
+  "client": "ammeter_catalog",
+  "side": "train",
+  "root_causes": [
+   "label_alias_tick"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_9.png",
+  "client": "ammeter_catalog",
+  "side": "train",
+  "root_causes": [
+   "label_alias_tick"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_2.png",
+  "client": "ammeter_handheld",
+  "side": "test",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_33.png",
+  "client": "ammeter_handheld",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_89.png",
+  "client": "ammeter_handheld",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_53.png",
+  "client": "ammeter_lab",
+  "side": "test",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_71.png",
+  "client": "ammeter_lab",
+  "side": "test",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_82.png",
+  "client": "ammeter_lab",
+  "side": "test",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_21.png",
+  "client": "ammeter_lab",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_23.png",
+  "client": "ammeter_lab",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_29.png",
+  "client": "ammeter_lab",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_32.png",
+  "client": "ammeter_lab",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_34.png",
+  "client": "ammeter_lab",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_37.png",
+  "client": "ammeter_lab",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_41.png",
+  "client": "ammeter_lab",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_47.png",
+  "client": "ammeter_lab",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_5.png",
+  "client": "ammeter_lab",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_63.png",
+  "client": "ammeter_lab",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_75.png",
+  "client": "ammeter_lab",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_79.png",
+  "client": "ammeter_lab",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_87.png",
+  "client": "ammeter_lab",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_88.png",
+  "client": "ammeter_lab",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_94.png",
+  "client": "ammeter_lab",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "ammeter_95.png",
+  "client": "ammeter_lab",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "pressure_gauge_36.png",
+  "client": "pressure_gauge_catalog",
+  "side": "test",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "pressure_gauge_67.png",
+  "client": "pressure_gauge_catalog",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "pressure_gauge_71.png",
+  "client": "pressure_gauge_catalog",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "pressure_gauge_102.png",
+  "client": "pressure_gauge_handheld",
+  "side": "test",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "pressure_gauge_22.png",
+  "client": "pressure_gauge_handheld",
+  "side": "test",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "pressure_gauge_41.png",
+  "client": "pressure_gauge_handheld",
+  "side": "test",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "pressure_gauge_47.png",
+  "client": "pressure_gauge_handheld",
+  "side": "test",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "pressure_gauge_72.png",
+  "client": "pressure_gauge_handheld",
+  "side": "test",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "voc_new_447.jpg",
+  "client": "pressure_gauge_handheld",
+  "side": "test",
+  "root_causes": [
+   "missing_pointer_annotation"
+  ],
+  "action": "needs_human_annotation",
+  "issues": [
+   "POINTER_NOT_ANNOTATED"
+  ]
+ },
+ {
+  "file": "voc_roi_image_0_20240712104441.jpg",
+  "client": "pressure_gauge_handheld",
+  "side": "test",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "voc_roi_image_0_20240713143310.jpg",
+  "client": "pressure_gauge_handheld",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "voc_roi_image_0_20240713143435.jpg",
+  "client": "pressure_gauge_handheld",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "pressure_gauge_14.png",
+  "client": "pressure_gauge_industrial",
+  "side": "test",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "pressure_gauge_21.png",
+  "client": "pressure_gauge_industrial",
+  "side": "test",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "pressure_gauge_27.png",
+  "client": "pressure_gauge_industrial",
+  "side": "test",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "pressure_gauge_44.png",
+  "client": "pressure_gauge_industrial",
+  "side": "test",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "pressure_gauge_55.png",
+  "client": "pressure_gauge_industrial",
+  "side": "test",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "pressure_gauge_57.png",
+  "client": "pressure_gauge_industrial",
+  "side": "test",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "voc_new_341.jpg",
+  "client": "pressure_gauge_industrial",
+  "side": "test",
+  "root_causes": [
+   "missing_tick_annotation"
+  ],
+  "action": "needs_human_annotation",
+  "issues": [
+   "TICK_NOT_ANNOTATED"
+  ]
+ },
+ {
+  "file": "pressure_gauge_18.png",
+  "client": "pressure_gauge_industrial",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "pressure_gauge_88.png",
+  "client": "pressure_gauge_lab",
+  "side": "test",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "sphygmomanometer_0.png",
+  "client": "sphygmomanometer_all",
+  "side": "train",
+  "root_causes": [
+   "missing_pointer_annotation"
+  ],
+  "action": "needs_human_annotation",
+  "issues": [
+   "POINTER_NOT_ANNOTATED"
+  ]
+ },
+ {
+  "file": "sphygmomanometer_25.png",
+  "client": "sphygmomanometer_all",
+  "side": "train",
+  "root_causes": [
+   "missing_pointer_annotation"
+  ],
+  "action": "needs_human_annotation",
+  "issues": [
+   "POINTER_NOT_ANNOTATED"
+  ]
+ },
+ {
+  "file": "tachometer_54.png",
+  "client": "tachometer_all",
+  "side": "test",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "tachometer_16.png",
+  "client": "tachometer_all",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "tachometer_4.png",
+  "client": "tachometer_all",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "tachometer_64.png",
+  "client": "tachometer_all",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "tachometer_67.png",
+  "client": "tachometer_all",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "voltmeter_103.png",
+  "client": "voltmeter_all",
+  "side": "test",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "voltmeter_57.png",
+  "client": "voltmeter_all",
+  "side": "test",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle",
+   "v1_unsupported_shape:rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "voltmeter_102.png",
+  "client": "voltmeter_all",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "voltmeter_13.png",
+  "client": "voltmeter_all",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "voltmeter_35.png",
+  "client": "voltmeter_all",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "voltmeter_66.png",
+  "client": "voltmeter_all",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "voltmeter_78.png",
+  "client": "voltmeter_all",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ },
+ {
+  "file": "voltmeter_95.png",
+  "client": "voltmeter_all",
+  "side": "train",
+  "root_causes": [
+   "v1_unsupported_shape:oriented_rectangle"
+  ],
+  "action": "fixed_by_rasterizer_v2",
+  "issues": []
+ }
+]

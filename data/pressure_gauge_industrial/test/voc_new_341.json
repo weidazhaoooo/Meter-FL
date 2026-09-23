@@ -1,0 +1,830 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pointer",
+      "points": [
+        [
+          205.0,
+          232.0
+        ],
+        [
+          198.0,
+          237.0
+        ],
+        [
+          210.0,
+          255.0
+        ],
+        [
+          217.0,
+          250.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          224.0,
+          230.0
+        ],
+        [
+          217.0,
+          235.0
+        ],
+        [
+          223.0,
+          243.0
+        ],
+        [
+          230.0,
+          238.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          231.0,
+          214.0
+        ],
+        [
+          225.0,
+          221.0
+        ],
+        [
+          236.0,
+          230.0
+        ],
+        [
+          242.0,
+          223.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          56.0,
+          204.0
+        ],
+        [
+          48.0,
+          210.0
+        ],
+        [
+          45.0,
+          208.0
+        ],
+        [
+          44.0,
+          204.0
+        ],
+        [
+          36.0,
+          207.0
+        ],
+        [
+          39.0,
+          215.0
+        ],
+        [
+          38.0,
+          216.0
+        ],
+        [
+          43.0,
+          223.0
+        ],
+        [
+          61.0,
+          211.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          243.0,
+          203.0
+        ],
+        [
+          238.0,
+          210.0
+        ],
+        [
+          245.0,
+          215.0
+        ],
+        [
+          250.0,
+          208.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          41.0,
+          187.0
+        ],
+        [
+          26.0,
+          192.0
+        ],
+        [
+          29.0,
+          201.0
+        ],
+        [
+          44.0,
+          196.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          242.0,
+          185.0
+        ],
+        [
+          239.0,
+          194.0
+        ],
+        [
+          254.0,
+          199.0
+        ],
+        [
+          257.0,
+          190.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          253.0,
+          172.0
+        ],
+        [
+          252.0,
+          181.0
+        ],
+        [
+          261.0,
+          182.0
+        ],
+        [
+          262.0,
+          173.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          32.0,
+          172.0
+        ],
+        [
+          24.0,
+          174.0
+        ],
+        [
+          26.0,
+          183.0
+        ],
+        [
+          34.0,
+          181.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          38.0,
+          155.0
+        ],
+        [
+          20.0,
+          156.0
+        ],
+        [
+          20.0,
+          165.0
+        ],
+        [
+          38.0,
+          164.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          246.0,
+          154.0
+        ],
+        [
+          246.0,
+          163.0
+        ],
+        [
+          263.0,
+          164.0
+        ],
+        [
+          263.0,
+          155.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          22.0,
+          138.0
+        ],
+        [
+          22.0,
+          147.0
+        ],
+        [
+          32.0,
+          147.0
+        ],
+        [
+          32.0,
+          138.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          260.0,
+          137.0
+        ],
+        [
+          253.0,
+          138.0
+        ],
+        [
+          255.0,
+          147.0
+        ],
+        [
+          262.0,
+          146.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          259.0,
+          120.0
+        ],
+        [
+          237.0,
+          125.0
+        ],
+        [
+          239.0,
+          134.0
+        ],
+        [
+          261.0,
+          129.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          28.0,
+          120.0
+        ],
+        [
+          26.0,
+          129.0
+        ],
+        [
+          38.0,
+          132.0
+        ],
+        [
+          40.0,
+          123.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          33.0,
+          104.0
+        ],
+        [
+          32.0,
+          113.0
+        ],
+        [
+          41.0,
+          114.0
+        ],
+        [
+          42.0,
+          105.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          255.0,
+          101.0
+        ],
+        [
+          244.0,
+          105.0
+        ],
+        [
+          247.0,
+          114.0
+        ],
+        [
+          258.0,
+          110.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          236.0,
+          95.0
+        ],
+        [
+          233.0,
+          95.0
+        ],
+        [
+          139.0,
+          149.0
+        ],
+        [
+          142.0,
+          155.0
+        ],
+        [
+          145.0,
+          155.0
+        ],
+        [
+          239.0,
+          101.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          41.0,
+          86.0
+        ],
+        [
+          37.0,
+          94.0
+        ],
+        [
+          57.0,
+          105.0
+        ],
+        [
+          61.0,
+          97.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          248.0,
+          84.0
+        ],
+        [
+          240.0,
+          89.0
+        ],
+        [
+          245.0,
+          96.0
+        ],
+        [
+          253.0,
+          91.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          53.0,
+          73.0
+        ],
+        [
+          48.0,
+          80.0
+        ],
+        [
+          55.0,
+          85.0
+        ],
+        [
+          60.0,
+          78.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          236.0,
+          70.0
+        ],
+        [
+          227.0,
+          77.0
+        ],
+        [
+          232.0,
+          84.0
+        ],
+        [
+          241.0,
+          77.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          65.0,
+          60.0
+        ],
+        [
+          59.0,
+          67.0
+        ],
+        [
+          70.0,
+          77.0
+        ],
+        [
+          76.0,
+          70.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          223.0,
+          57.0
+        ],
+        [
+          211.0,
+          70.0
+        ],
+        [
+          218.0,
+          76.0
+        ],
+        [
+          230.0,
+          63.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          79.0,
+          48.0
+        ],
+        [
+          72.0,
+          53.0
+        ],
+        [
+          79.0,
+          62.0
+        ],
+        [
+          86.0,
+          57.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          206.0,
+          47.0
+        ],
+        [
+          202.0,
+          56.0
+        ],
+        [
+          211.0,
+          60.0
+        ],
+        [
+          215.0,
+          51.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          190.0,
+          40.0
+        ],
+        [
+          184.0,
+          53.0
+        ],
+        [
+          193.0,
+          57.0
+        ],
+        [
+          199.0,
+          44.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          97.0,
+          39.0
+        ],
+        [
+          88.0,
+          43.0
+        ],
+        [
+          94.0,
+          57.0
+        ],
+        [
+          103.0,
+          53.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          114.0,
+          34.0
+        ],
+        [
+          105.0,
+          37.0
+        ],
+        [
+          108.0,
+          46.0
+        ],
+        [
+          117.0,
+          43.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          175.0,
+          33.0
+        ],
+        [
+          171.0,
+          43.0
+        ],
+        [
+          180.0,
+          46.0
+        ],
+        [
+          184.0,
+          36.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          157.0,
+          30.0
+        ],
+        [
+          154.0,
+          53.0
+        ],
+        [
+          163.0,
+          55.0
+        ],
+        [
+          166.0,
+          32.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          139.0,
+          30.0
+        ],
+        [
+          140.0,
+          40.0
+        ],
+        [
+          149.0,
+          40.0
+        ],
+        [
+          148.0,
+          30.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "pointer",
+      "points": [
+        [
+          131.0,
+          29.0
+        ],
+        [
+          122.0,
+          31.0
+        ],
+        [
+          125.0,
+          47.0
+        ],
+        [
+          134.0,
+          45.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "voc_new_341.jpg",
+  "imageData": null,
+  "imageHeight": 304,
+  "imageWidth": 297
+}

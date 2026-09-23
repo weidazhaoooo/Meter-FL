@@ -1,0 +1,32 @@
+{
+ "unit": "V",
+ "scale_min": 0,
+ "scale_max": 250,
+ "reading_gt": 200,
+ "tick_values": [
+  0,
+  75,
+  100,
+  110,
+  120,
+  130,
+  140,
+  150,
+  160,
+  170,
+  180,
+  190,
+  200,
+  210,
+  220,
+  230,
+  240,
+  250
+ ],
+ "seg_anomaly": false,
+ "annot_issue": false,
+ "notes": "",
+ "file": "voltmeter_103.png",
+ "client": "voltmeter_all",
+ "side": "test"
+}
